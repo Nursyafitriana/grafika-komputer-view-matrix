@@ -58,19 +58,3 @@ Sistem koordinat kamera dibangun dari 3 vektor yang saling tegak lurus (ortogona
 
 * **Vektor $v$ (Up):** Arah atas kamera yang tegak lurus (sumbu Y).
     $$v = n \times u$$
-
-### 2. Matriks Transformasi
-Menggabungkan rotasi dan translasi menjadi satu matriks 4x4:
-
-$$
-M_{view} = \begin{bmatrix}
-u_x & u_y & u_z & -(u \cdot P_{eye}) \\
-v_x & v_y & v_z & -(v \cdot P_{eye}) \\
-n_x & n_y & n_z & -(n \cdot P_{eye}) \\
-0 & 0 & 0 & 1
-\end{bmatrix}
-$$
-
-</details>
-
----
