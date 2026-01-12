@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎥 3D Camera Transformation Engine
+# 🎥 Grafika Komputer View Matrix
 ### Tugas Grafika Komputer 3D | Semester 5
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
