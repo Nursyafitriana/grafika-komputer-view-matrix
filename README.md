@@ -5,8 +5,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Computation-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-Compatible-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![NvChad](https://img.shields.io/badge/Editor-NvChad-46a55f?style=for-the-badge&logo=neovim&logoColor=white)
 
 <p align="center">
   <a href="#-demo-preview">Lihat Demo</a> •
